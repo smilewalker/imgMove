@@ -17,6 +17,10 @@ h1 {
 	text-align: center;
 }
 
+.img-wrap {
+	width: 20rem;
+	height: 20rem;
+}
 /*.mask {
 	background: url(../images/sea.jpg) no-repeat center;
 	background-size: cover;
