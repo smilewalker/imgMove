@@ -18,9 +18,15 @@ h1 {
 }
 
 .img-wrap {
-	width: 20rem;
-	height: 20rem;
+	position: absolute;
+	left: 100px;
+	width: 400px;
+	height: 400px;
+	background-color: #000;
+	/*transform: rotate(30deg);*/
+	/*transform: translate3d(30px, 0, 0);*/
 }
+
 /*.mask {
 	background: url(../images/sea.jpg) no-repeat center;
 	background-size: cover;
